@@ -1,0 +1,24 @@
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+    font-family: sans-serif;
+}
+
+h1 {
+    border-bottom: thin solid #0078ff;
+    width: 60%;
+}
+
+.btn-wrapper {
+    display: inline-block;
+    text-align: center;
+}
+
+.btn {
+    background-color: #0078ff;
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
